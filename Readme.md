@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Енот](http://up.ha.local/javascript/8/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Test`.
 
 ---
 
